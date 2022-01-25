@@ -5,7 +5,7 @@ Each question has a corresponding solution & test file. The convention in naming
 
 To give an example; file name for the solution of the question 167 is simply `q167-two-sum-2.js` and test file name is `q167-two-sum-2.test.js`.
 
-For unit testing solutions, [jest] (https://jestjs.io/) is being leveraged.
+For unit testing solutions, [jest](https://jestjs.io/) is being leveraged.
 
 ## Running tests
 Upon running `npm install` (or `yarn`) you can simply run `jest` (`yarn test` or `npm test`) in the root folder to run tests for all available questions.
